@@ -4,15 +4,15 @@
 ![hitesh choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
 
 ---
--   Skills Gained in this project
+-   Skills Gained
     -   Setting up the background image.
     -   Different properties to fit the background image.
 
 ---
 
-## Time taken to finish this project
+## Time taken 
 
--   Approximately 7-8 hour taken to complete this one.
+-   Approximately 7-8 hour taken to complete this project.
 
 #### Preview
 
